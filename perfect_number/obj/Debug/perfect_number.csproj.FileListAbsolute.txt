@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2015\Projects\perfect_number\perfect_number\bin\Debug\perfect_number.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\perfect_number\perfect_number\bin\Debug\perfect_number.exe
+c:\users\adam\documents\visual studio 2015\Projects\perfect_number\perfect_number\bin\Debug\perfect_number.pdb
+c:\users\adam\documents\visual studio 2015\Projects\perfect_number\perfect_number\obj\Debug\perfect_number.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\perfect_number\perfect_number\obj\Debug\perfect_number.exe
+c:\users\adam\documents\visual studio 2015\Projects\perfect_number\perfect_number\obj\Debug\perfect_number.pdb
